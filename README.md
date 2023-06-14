@@ -14,3 +14,6 @@
 - GausNB_model là file chứa quá trình chạy , tinh chỉnh và các bước để hoàn thành model Naive Bayes
 - model_rf.pkl và vectorizer.pkl là hai file chứa model của random forest và ma trận rời rạc hóa 
 - run.ipynb là file chạy model model_rf.pkl
+# Hướng dẫn chạy
+Mở file run.ipynb 
+Parse bất kì news nào vào vùng chỉ định , sau đó kết quả sẽ được hiện thị phía dưới
